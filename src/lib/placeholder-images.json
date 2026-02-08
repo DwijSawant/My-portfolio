@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "mediblock",
+      "description": "A futuristic medical interface showing a blockchain.",
+      "imageUrl": "/medi.png",
+      "imageHint": "blockchain healthcare"
+    },
+    {
+      "id": "wine-quality",
+      "description": "A glass of red wine next to a data chart.",
+      "imageUrl": "/wine.png",
+      "imageHint": "data science wine"
+    },
+    {
+      "id": "secureleap",
+      "description": "A digital lock and shield representing security.",
+      "imageUrl": "/Securpleas.png",
+      "imageHint": "security audit"
+    }
+  ]
+}
